@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Sinhala"
+    },
+    {
+        "id": 2,
+        "name": "English"
+    },
+    {
+        "id": 3,
+        "name": "Citizenship"
+    },
+    {
+        "id": 4,
+        "name": "Geography"
+    },
+    {
+        "id": 5,
+        "name": "Science"
+    },
+    {
+        "id": 6,
+        "name": "Maths"
+    },
+    {
+        "id": 7,
+        "name": "Buddhism"
+    },
+    {
+        "id": 8,
+        "name": "Tamil"
+    },
+    {
+        "id": 9,
+        "name": "Art"
+    },
+    {
+        "id": 10,
+        "name": "Dancing"
+    },
+    {
+        "id": 11,
+        "name": "Music"
+    },
+    {
+        "id": 12,
+        "name": "History"
+    }
+]

@@ -1,0 +1,40 @@
+{
+  "name": "wesley-college-lms",
+  "version": "1.0.0",
+  "description": "This is a wesley college lms app",
+  "main": "index.js",
+  "author": "K.A Chamika Madushan",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dev-server --hot",
+    "build:dev": "webpack",
+    "build:prod": "webpack -p --env production"
+  },
+  "dependencies": {
+    "@babel/polyfill": "^7.10.1",
+    "bootstrap": "^4.5.0",
+    "moment": "^2.27.0",
+    "moment-timezone": "^0.5.31",
+    "node-sass": "^4.14.1",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "styled-components": "^5.1.1"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.2",
+    "@babel/plugin-proposal-class-properties": "^7.10.1",
+    "@babel/plugin-proposal-object-rest-spread": "^7.10.3",
+    "@babel/preset-env": "^7.10.2",
+    "@babel/preset-react": "^7.10.1",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^3.6.0",
+    "extract-text-webpack-plugin": "4.0.0-alpha.0",
+    "prop-types": "^15.7.2",
+    "sass-loader": "^8.0.2",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}

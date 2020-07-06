@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "name": "Sinhala"
+    },
+    {
+        "id": 2,
+        "name": "English"
+    },
+    {
+        "id": 3,
+        "name": "Science"
+    },
+    {
+        "id": 4,
+        "name": "Maths"
+    },
+    {
+        "id": 5,
+        "name": "Buddhism"
+    },
+    {
+        "id": 6,
+        "name": "History"
+    },
+    {
+        "id": 7,
+        "name": "Commerce"
+    },
+    {
+        "id": 8,
+        "name": "Tamil"
+    },
+    {
+        "id": 9,
+        "name": "Citizenship"
+    },
+    {
+        "id": 10,
+        "name": "Geography"
+    },
+    {
+        "id": 11,
+        "name": "Agriculture"
+    },
+    {
+        "id": 12,
+        "name": "Health"
+    },
+    {
+        "id": 13,
+        "name": "ICT"
+    },
+    {
+        "id": 14,
+        "name": "Homescience"
+    },
+    {
+        "id": 15,
+        "name": "Art"
+    },
+    {
+        "id": 16,
+        "name": "Dancing"
+    },
+    {
+        "id": 17,
+        "name": "Music"
+    }
+]

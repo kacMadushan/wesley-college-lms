@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "gradeId": "6",
+        "gradeName": "Grade-6"
+    },
+    {
+        "id": 2,
+        "gradeId": "7",
+        "gradeName": "Grade-7"
+    },
+    {
+        "id": 3,
+        "gradeId": "8",
+        "gradeName": "Grade-8"
+    },
+    {
+        "id": 4,
+        "gradeId": "9",
+        "gradeName": "Grade-9"
+    },
+    {
+        "id": 5,
+        "gradeId": "10",
+        "gradeName": "Grade-10"
+    },
+    {
+        "id": 6,
+        "gradeId": "11",
+        "gradeName": "Grade-11"
+    }
+]
